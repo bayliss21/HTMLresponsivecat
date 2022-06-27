@@ -1,3 +1,3 @@
 FROM Ubuntu
-RUN git clone bayliss21/HTMLresponsivecat
+RUN git clone HTMLresponsivecat/v1cat
 
